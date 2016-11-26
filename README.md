@@ -1,2 +1,3 @@
 # hello-world
 A test GitHub repository
+I like coding C and C++.  I also like to learn new technologies all the time...
